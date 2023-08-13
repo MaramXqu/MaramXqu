@@ -4,4 +4,4 @@
 <P align="left">Connect with me:Maram.saleh.alqarni@gmail.com</P>
 <p align="left">
 </p>
- <img src="exa.gif" width="700" height="400"/> 
+ <img src="exa.gif" width="760" height="400"/> 
