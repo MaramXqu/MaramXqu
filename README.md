@@ -1,5 +1,4 @@
-<h6 align="center">Hi, I'm Maram</h6>
-<h6 align="center">A web developer</h6>
+
 
  <img src="exa.gif" width="760" height="360"/> 
 
